@@ -1,0 +1,4 @@
+http://localhost:1337
+http://super-server.duckdns.org:1337
+http://devops-guys.no-ip.biz:8080
+http://220.248.123.21:1234
