@@ -1,4 +1,4 @@
 Localhost/Developer;http://127.0.0.1:8680
-Russian (https://vk.com/nfsw_offline);http://93.188.208.221:1337
+Russian (https://vk.com/nfsw_offline);http://93.188.208.221:8680
 SBRW closed-beta;http://173.230.136.12:8680
 SBRW weekend-tests;http://177.35.120.117:8680
