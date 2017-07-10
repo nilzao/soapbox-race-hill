@@ -1,4 +1,2 @@
-SBRW Open-Beta (weekend);http://199.217.112.103:8680
 World Evolved (RUS);http://93.188.208.221:8680
 Thyth.de [DE|EU];http://95.156.227.10:8680
-SBRW Closed-Beta;http://173.230.136.12:8680
