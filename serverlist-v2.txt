@@ -1,3 +1,3 @@
 SBRW Open-Beta;http://play.soapboxrace.world
 World Evolved (RUS);http://93.188.208.221:8680
-
+World Online PL;http://188.116.11.44:8680
