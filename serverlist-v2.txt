@@ -2,4 +2,4 @@ SBRW Open-Beta;http://play.soapboxrace.world
 World Evolved (RUS);http://93.188.208.221:8680
 World Online PL;http://188.116.11.44:8680
 Nitro Open Beta (EU);http://nitro.soapboxrace.world
-Apex Closed Beta;http://apex.soapboxrace.world
+Apex Open Beta;http://apex.soapboxrace.world
