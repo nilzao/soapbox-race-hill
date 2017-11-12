@@ -1,4 +1,3 @@
 Apex Open Beta;http://apex.soapboxrace.world
 Nitro Open Beta (EU);http://nitro.soapboxrace.world
 World Online PL;http://188.116.11.44:8680
-World Evolved (RUS);http://93.188.208.221:8680
