@@ -1,2 +1,3 @@
 Apex Open Beta;http://apex.soapboxrace.world
 World Online PL;http://188.116.11.44:8680
+SBRW Closed Beta;http://179.214.136.94:8680
