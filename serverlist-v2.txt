@@ -1,4 +1,4 @@
 Apex Open Beta;http://apex.soapboxrace.world
 World Online PL;http://188.116.11.44:8680
 SBRW Closed Beta;http://54.37.234.148:8680
-Vortex Closed Beta;http://54.37.234.148:8680
+Vortex Closed Beta;http://188.68.60.163:8680
