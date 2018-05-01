@@ -2,7 +2,7 @@ Apex Open Beta;http://ec2-34-236-63-233.compute-1.amazonaws.com
 World Online PL;http://188.116.11.44:8680
 SBRW Closed Beta;http://54.37.234.148:8680
 Vortex Closed Beta;http://188.68.60.163:8680
-Servidor HUEHUE;http://191.252.110.123:8680
+Servidor HUEHUE;http://200.98.144.73:8680
 WorldEvolvedv2;http://46.173.218.64:8680
 Zesty's Server;http://180.97.28.12:8680
 VolXSpeed;http://speed.volxhaus.net:8680
