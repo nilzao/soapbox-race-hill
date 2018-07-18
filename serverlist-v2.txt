@@ -1,3 +1,4 @@
 HUE RACERS;http://200.98.139.241:8680
 eBattlegrounds;http://92.222.74.134:8680
-WorldEvolvedv2;http://185.125.231.50:8680
+World Evolved;http://185.125.231.50:8680
+World Online PL;http://145.239.5.103:8680
